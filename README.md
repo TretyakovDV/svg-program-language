@@ -19,7 +19,7 @@ For example:
 
 ##### Line [x1] [y1] [x2] [y2]
 
-This command draw line
+This command draw the line
 
 Min value 0, max value 100
 
